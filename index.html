@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Irregular Verbs Dictionary</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body class="dark-theme">
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1 class="title">
+                    <i class="fas fa-book-open"></i>
+                    Irregular Verbs Dictionary
+                </h1>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </header>
+
+        <section class="search-section">
+            <div class="search-container">
+                <div class="search-input-wrapper">
+                    <i class="fas fa-search search-icon"></i>
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="Search for irregular verbs..."
+                        autocomplete="off"
+                    >
+                    <button class="clear-search" id="clearSearch" aria-label="Clear search">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="search-stats">
+                    <span id="verbCount">200</span> verbs found
+                </div>
+            </div>
+        </section>
+
+        <section class="verbs-section">
+            <div class="table-container">
+                <table class="verbs-table">
+                    <thead>
+                        <tr>
+                            <th class="table-header">
+                                <i class="fas fa-play"></i>
+                                Infinitive (V1)
+                            </th>
+                            <th class="table-header">
+                                <i class="fas fa-history"></i>
+                                Past Tense (V2)
+                            </th>
+                            <th class="table-header">
+                                <i class="fas fa-check-circle"></i>
+                                Past Participle (V3)
+                            </th>
+                            <th class="table-header">
+                                <i class="fas fa-language"></i>
+                                Translation (RU)
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="verbsTableBody">
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <div class="no-results" id="noResults" style="display: none;">
+            <div class="no-results-icon">
+                <i class="fas fa-search"></i>
+            </div>
+            <h3>No verbs found</h3>
+            <p>Try adjusting your search terms or clear the search to see all verbs.</p>
+        </div>
+
+        <footer class="footer">
+            <p>&copy; 2025 Irregular Verbs Dictionary. Made with <i class="fas fa-heart"></i> by Th3ryks.</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

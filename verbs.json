@@ -1,0 +1,1202 @@
+[
+  {
+    "v1": "be",
+    "v2": "was/were",
+    "v3": "been",
+    "translation": "быть"
+  },
+  {
+    "v1": "have",
+    "v2": "had",
+    "v3": "had",
+    "translation": "иметь"
+  },
+  {
+    "v1": "do",
+    "v2": "did",
+    "v3": "done",
+    "translation": "делать"
+  },
+  {
+    "v1": "see",
+    "v2": "saw",
+    "v3": "seen",
+    "translation": "видеть"
+  },
+  {
+    "v1": "get",
+    "v2": "got",
+    "v3": "got",
+    "translation": "получать"
+  },
+  {
+    "v1": "find",
+    "v2": "found",
+    "v3": "found",
+    "translation": "находить"
+  },
+  {
+    "v1": "go",
+    "v2": "went",
+    "v3": "gone",
+    "translation": "идти"
+  },
+  {
+    "v1": "buy",
+    "v2": "bought",
+    "v3": "bought",
+    "translation": "покупать"
+  },
+  {
+    "v1": "make",
+    "v2": "made",
+    "v3": "made",
+    "translation": "делать"
+  },
+  {
+    "v1": "read",
+    "v2": "read",
+    "v3": "read",
+    "translation": "читать"
+  },
+  {
+    "v1": "set",
+    "v2": "set",
+    "v3": "set",
+    "translation": "устанавливать"
+  },
+  {
+    "v1": "know",
+    "v2": "knew",
+    "v3": "known",
+    "translation": "знать"
+  },
+  {
+    "v1": "send",
+    "v2": "sent",
+    "v3": "sent",
+    "translation": "отправлять"
+  },
+  {
+    "v1": "take",
+    "v2": "took",
+    "v3": "taken",
+    "translation": "брать"
+  },
+  {
+    "v1": "show",
+    "v2": "showed",
+    "v3": "shown",
+    "translation": "показывать"
+  },
+  {
+    "v1": "think",
+    "v2": "thought",
+    "v3": "thought",
+    "translation": "думать"
+  },
+  {
+    "v1": "learn",
+    "v2": "learnt",
+    "v3": "learnt",
+    "translation": "учить"
+  },
+  {
+    "v1": "cost",
+    "v2": "cost",
+    "v3": "cost",
+    "translation": "стоить"
+  },
+  {
+    "v1": "say",
+    "v2": "said",
+    "v3": "said",
+    "translation": "говорить"
+  },
+  {
+    "v1": "come",
+    "v2": "came",
+    "v3": "come",
+    "translation": "приходить"
+  },
+  {
+    "v1": "let",
+    "v2": "let",
+    "v3": "let",
+    "translation": "позволять"
+  },
+  {
+    "v1": "give",
+    "v2": "gave",
+    "v3": "given",
+    "translation": "давать"
+  },
+  {
+    "v1": "sell",
+    "v2": "sold",
+    "v3": "sold",
+    "translation": "продавать"
+  },
+  {
+    "v1": "pay",
+    "v2": "paid",
+    "v3": "paid",
+    "translation": "платить"
+  },
+  {
+    "v1": "light",
+    "v2": "lit",
+    "v3": "lit",
+    "translation": "зажигать"
+  },
+  {
+    "v1": "write",
+    "v2": "wrote",
+    "v3": "written",
+    "translation": "писать"
+  },
+  {
+    "v1": "become",
+    "v2": "became",
+    "v3": "become",
+    "translation": "становиться"
+  },
+  {
+    "v1": "keep",
+    "v2": "kept",
+    "v3": "kept",
+    "translation": "держать"
+  },
+  {
+    "v1": "run",
+    "v2": "ran",
+    "v3": "run",
+    "translation": "бежать"
+  },
+  {
+    "v1": "put",
+    "v2": "put",
+    "v3": "put",
+    "translation": "класть"
+  },
+  {
+    "v1": "tell",
+    "v2": "told",
+    "v3": "told",
+    "translation": "рассказывать"
+  },
+  {
+    "v1": "drive",
+    "v2": "drove",
+    "v3": "driven",
+    "translation": "водить"
+  },
+  {
+    "v1": "meet",
+    "v2": "met",
+    "v3": "met",
+    "translation": "встречать"
+  },
+  {
+    "v1": "feel",
+    "v2": "felt",
+    "v3": "felt",
+    "translation": "чувствовать"
+  },
+  {
+    "v1": "choose",
+    "v2": "chose",
+    "v3": "chosen",
+    "translation": "выбирать"
+  },
+  {
+    "v1": "speed",
+    "v2": "sped",
+    "v3": "sped",
+    "translation": "ускорять"
+  },
+  {
+    "v1": "mean",
+    "v2": "meant",
+    "v3": "meant",
+    "translation": "означать"
+  },
+  {
+    "v1": "build",
+    "v2": "built",
+    "v3": "built",
+    "translation": "строить"
+  },
+  {
+    "v1": "leave",
+    "v2": "left",
+    "v3": "left",
+    "translation": "оставлять"
+  },
+  {
+    "v1": "bid",
+    "v2": "bade",
+    "v3": "bidden",
+    "translation": "предлагать цену"
+  },
+  {
+    "v1": "lead",
+    "v2": "led",
+    "v3": "led",
+    "translation": "вести"
+  },
+  {
+    "v1": "wed",
+    "v2": "wed",
+    "v3": "wed",
+    "translation": "жениться/выходить замуж"
+  },
+  {
+    "v1": "fall",
+    "v2": "fell",
+    "v3": "fallen",
+    "translation": "падать"
+  },
+  {
+    "v1": "win",
+    "v2": "won",
+    "v3": "won",
+    "translation": "выигрывать"
+  },
+  {
+    "v1": "spring",
+    "v2": "sprang",
+    "v3": "sprung",
+    "translation": "прыгать/возникать"
+  },
+  {
+    "v1": "deal",
+    "v2": "dealt",
+    "v3": "dealt",
+    "translation": "иметь дело"
+  },
+  {
+    "v1": "hold",
+    "v2": "held",
+    "v3": "held",
+    "translation": "держать"
+  },
+  {
+    "v1": "feed",
+    "v2": "fed",
+    "v3": "fed",
+    "translation": "кормить"
+  },
+  {
+    "v1": "understand",
+    "v2": "understood",
+    "v3": "understood",
+    "translation": "понимать"
+  },
+  {
+    "v1": "cut",
+    "v2": "cut",
+    "v3": "cut",
+    "translation": "резать"
+  },
+  {
+    "v1": "bring",
+    "v2": "brought",
+    "v3": "brought",
+    "translation": "приносить"
+  },
+  {
+    "v1": "ring",
+    "v2": "rang",
+    "v3": "rung",
+    "translation": "звонить"
+  },
+  {
+    "v1": "hit",
+    "v2": "hit",
+    "v3": "hit",
+    "translation": "ударять"
+  },
+  {
+    "v1": "string",
+    "v2": "strung",
+    "v3": "strung",
+    "translation": "нанизывать"
+  },
+  {
+    "v1": "break",
+    "v2": "broke",
+    "v3": "broken",
+    "translation": "ломать"
+  },
+  {
+    "v1": "saw",
+    "v2": "sawed",
+    "v3": "sawn",
+    "translation": "пилить"
+  },
+  {
+    "v1": "hear",
+    "v2": "heard",
+    "v3": "heard",
+    "translation": "слышать"
+  },
+  {
+    "v1": "stand",
+    "v2": "stood",
+    "v3": "stood",
+    "translation": "стоять"
+  },
+  {
+    "v1": "begin",
+    "v2": "began",
+    "v3": "begun",
+    "translation": "начинать"
+  },
+  {
+    "v1": "wind",
+    "v2": "wound",
+    "v3": "wound",
+    "translation": "наматывать"
+  },
+  {
+    "v1": "fit",
+    "v2": "fit",
+    "v3": "fit",
+    "translation": "подходить"
+  },
+  {
+    "v1": "dream",
+    "v2": "dreamt",
+    "v3": "dreamt",
+    "translation": "мечтать/видеть сны"
+  },
+  {
+    "v1": "cast",
+    "v2": "cast",
+    "v3": "cast",
+    "translation": "бросать/отливать"
+  },
+  {
+    "v1": "bear",
+    "v2": "bore",
+    "v3": "borne",
+    "translation": "нести/рожать"
+  },
+  {
+    "v1": "blow",
+    "v2": "blew",
+    "v3": "blown",
+    "translation": "дуть"
+  },
+  {
+    "v1": "speak",
+    "v2": "spoke",
+    "v3": "spoken",
+    "translation": "говорить"
+  },
+  {
+    "v1": "fight",
+    "v2": "fought",
+    "v3": "fought",
+    "translation": "сражаться"
+  },
+  {
+    "v1": "wear",
+    "v2": "wore",
+    "v3": "worn",
+    "translation": "носить"
+  },
+  {
+    "v1": "rise",
+    "v2": "rose",
+    "v3": "risen",
+    "translation": "подниматься"
+  },
+  {
+    "v1": "sleep",
+    "v2": "slept",
+    "v3": "slept",
+    "translation": "спать"
+  },
+  {
+    "v1": "drink",
+    "v2": "drank",
+    "v3": "drunk",
+    "translation": "пить"
+  },
+  {
+    "v1": "eat",
+    "v2": "ate",
+    "v3": "eaten",
+    "translation": "есть"
+  },
+  {
+    "v1": "fly",
+    "v2": "flew",
+    "v3": "flown",
+    "translation": "летать"
+  },
+  {
+    "v1": "beat",
+    "v2": "beat",
+    "v3": "beaten",
+    "translation": "бить"
+  },
+  {
+    "v1": "hide",
+    "v2": "hid",
+    "v3": "hidden",
+    "translation": "прятать"
+  },
+  {
+    "v1": "spend",
+    "v2": "spent",
+    "v3": "spent",
+    "translation": "тратить"
+  },
+  {
+    "v1": "grow",
+    "v2": "grew",
+    "v3": "grown",
+    "translation": "расти"
+  },
+  {
+    "v1": "ride",
+    "v2": "rode",
+    "v3": "ridden",
+    "translation": "ездить"
+  },
+  {
+    "v1": "forget",
+    "v2": "forgot",
+    "v3": "forgotten",
+    "translation": "забывать"
+  },
+  {
+    "v1": "spread",
+    "v2": "spread",
+    "v3": "spread",
+    "translation": "распространять"
+  },
+  {
+    "v1": "lose",
+    "v2": "lost",
+    "v3": "lost",
+    "translation": "терять"
+  },
+  {
+    "v1": "seek",
+    "v2": "sought",
+    "v3": "sought",
+    "translation": "искать"
+  },
+  {
+    "v1": "wet",
+    "v2": "wet",
+    "v3": "wet",
+    "translation": "мочить"
+  },
+  {
+    "v1": "draw",
+    "v2": "drew",
+    "v3": "drawn",
+    "translation": "рисовать"
+  },
+  {
+    "v1": "stick",
+    "v2": "stick",
+    "v3": "stuck",
+    "translation": "приклеивать"
+  },
+  {
+    "v1": "slide",
+    "v2": "slid",
+    "v3": "slid",
+    "translation": "скользить"
+  },
+  {
+    "v1": "catch",
+    "v2": "caught",
+    "v3": "caught",
+    "translation": "ловить"
+  },
+  {
+    "v1": "split",
+    "v2": "split",
+    "v3": "split",
+    "translation": "разделять"
+  },
+  {
+    "v1": "sit",
+    "v2": "sat",
+    "v3": "sat",
+    "translation": "сидеть"
+  },
+  {
+    "v1": "teach",
+    "v2": "taught",
+    "v3": "taught",
+    "translation": "учить"
+  },
+  {
+    "v1": "strip",
+    "v2": "stripped",
+    "v3": "stripped",
+    "translation": "раздевать"
+  },
+  {
+    "v1": "strike",
+    "v2": "struck",
+    "v3": "struck",
+    "translation": "ударять"
+  },
+  {
+    "v1": "shoe",
+    "v2": "shod",
+    "v3": "shod",
+    "translation": "обувать"
+  },
+  {
+    "v1": "lay",
+    "v2": "laid",
+    "v3": "laid",
+    "translation": "класть"
+  },
+  {
+    "v1": "prove",
+    "v2": "proved",
+    "v3": "proven",
+    "translation": "доказывать"
+  },
+  {
+    "v1": "bet",
+    "v2": "bet",
+    "v3": "bet",
+    "translation": "делать ставку"
+  },
+  {
+    "v1": "throw",
+    "v2": "threw",
+    "v3": "thrown",
+    "translation": "бросать"
+  },
+  {
+    "v1": "wake",
+    "v2": "woke",
+    "v3": "woken",
+    "translation": "просыпаться"
+  },
+  {
+    "v1": "burn",
+    "v2": "burnt",
+    "v3": "burnt",
+    "translation": "гореть/жечь"
+  },
+  {
+    "v1": "lie",
+    "v2": "lay",
+    "v3": "lain",
+    "translation": "лежать"
+  },
+  {
+    "v1": "lie",
+    "v2": "lied",
+    "v3": "lied",
+    "translation": "лежать"
+  },
+  {
+    "v1": "hurt",
+    "v2": "hurt",
+    "v3": "hurt",
+    "translation": "причинять боль"
+  },
+  {
+    "v1": "swing",
+    "v2": "swung",
+    "v3": "swung",
+    "translation": "качаться"
+  },
+  {
+    "v1": "shoot",
+    "v2": "shot",
+    "v3": "shot",
+    "translation": "стрелять"
+  },
+  {
+    "v1": "spin",
+    "v2": "span",
+    "v3": "spun",
+    "translation": "вращать"
+  },
+  {
+    "v1": "shut",
+    "v2": "shut",
+    "v3": "shut",
+    "translation": "закрывать"
+  },
+  {
+    "v1": "sing",
+    "v2": "sang",
+    "v3": "sung",
+    "translation": "петь"
+  },
+  {
+    "v1": "hang",
+    "v2": "hung",
+    "v3": "hung",
+    "translation": "висеть"
+  },
+  {
+    "v1": "mistake",
+    "v2": "mistook",
+    "v3": "mistaken",
+    "translation": "ошибаться"
+  },
+  {
+    "v1": "quit",
+    "v2": "quit",
+    "v3": "quit",
+    "translation": "бросать/уходить"
+  },
+  {
+    "v1": "bend",
+    "v2": "bent",
+    "v3": "bent",
+    "translation": "сгибать"
+  },
+  {
+    "v1": "swim",
+    "v2": "swam",
+    "v3": "swum",
+    "translation": "плавать"
+  },
+  {
+    "v1": "spell",
+    "v2": "spelt",
+    "v3": "spelt",
+    "translation": "произносить по буквам"
+  },
+  {
+    "v1": "arise",
+    "v2": "arose",
+    "v3": "arisen",
+    "translation": "возникать"
+  },
+  {
+    "v1": "dive",
+    "v2": "dived",
+    "v3": "dived",
+    "translation": "нырять"
+  },
+  {
+    "v1": "sink",
+    "v2": "sank",
+    "v3": "sunk",
+    "translation": "тонуть"
+  },
+  {
+    "v1": "rid",
+    "v2": "rid",
+    "v3": "rid",
+    "translation": "избавлять"
+  },
+  {
+    "v1": "breed",
+    "v2": "bred",
+    "v3": "bred",
+    "translation": "разводить"
+  },
+  {
+    "v1": "dig",
+    "v2": "dug",
+    "v3": "dug",
+    "translation": "копать"
+  },
+  {
+    "v1": "shake",
+    "v2": "shook",
+    "v3": "shaken",
+    "translation": "трясти"
+  },
+  {
+    "v1": "shed",
+    "v2": "shed",
+    "v3": "shed",
+    "translation": "сбрасывать"
+  },
+  {
+    "v1": "bind",
+    "v2": "bind",
+    "v3": "bound",
+    "translation": "связывать"
+  },
+  {
+    "v1": "smell",
+    "v2": "smelt",
+    "v3": "smelt",
+    "translation": "пахнуть"
+  },
+  {
+    "v1": "lean",
+    "v2": "leant",
+    "v3": "leant",
+    "translation": "наклоняться"
+  },
+  {
+    "v1": "steal",
+    "v2": "stole",
+    "v3": "stolen",
+    "translation": "красть"
+  },
+  {
+    "v1": "bite",
+    "v2": "bit",
+    "v3": "bitten",
+    "translation": "кусать"
+  },
+  {
+    "v1": "shine",
+    "v2": "shone",
+    "v3": "shone",
+    "translation": "светить"
+  },
+  {
+    "v1": "zinc",
+    "v2": "zincked",
+    "v3": "zincked",
+    "translation": "цинковать"
+  },
+  {
+    "v1": "undertake",
+    "v2": "undertook",
+    "v3": "undertaken",
+    "translation": "предпринимать"
+  },
+  {
+    "v1": "tear",
+    "v2": "tore",
+    "v3": "torn",
+    "translation": "рвать"
+  },
+  {
+    "v1": "upset",
+    "v2": "upset",
+    "v3": "upset",
+    "translation": "расстраивать"
+  },
+  {
+    "v1": "freeze",
+    "v2": "froze",
+    "v3": "frozen",
+    "translation": "замерзать"
+  },
+  {
+    "v1": "burst",
+    "v2": "burst",
+    "v3": "burst",
+    "translation": "лопаться"
+  },
+  {
+    "v1": "knit",
+    "v2": "knit",
+    "v3": "knit",
+    "translation": "вязать"
+  },
+  {
+    "v1": "leap",
+    "v2": "leapt",
+    "v3": "leapt",
+    "translation": "прыгать"
+  },
+  {
+    "v1": "withdraw",
+    "v2": "withdrew",
+    "v3": "withdrawn",
+    "translation": "отзывать"
+  },
+  {
+    "v1": "sweat",
+    "v2": "sweat",
+    "v3": "sweat",
+    "translation": "потеть"
+  },
+  {
+    "v1": "bust",
+    "v2": "bust",
+    "v3": "bust",
+    "translation": "ломать"
+  },
+  {
+    "v1": "strive",
+    "v2": "strove",
+    "v3": "striven",
+    "translation": "стремиться"
+  },
+  {
+    "v1": "spill",
+    "v2": "spilt",
+    "v3": "spilt",
+    "translation": "проливать"
+  },
+  {
+    "v1": "abide",
+    "v2": "abided",
+    "v3": "abided",
+    "translation": "терпеть"
+  },
+  {
+    "v1": "sweep",
+    "v2": "swept",
+    "v3": "swept",
+    "translation": "подметать"
+  },
+  {
+    "v1": "thrust",
+    "v2": "thrust",
+    "v3": "thrust",
+    "translation": "толкать"
+  },
+  {
+    "v1": "forgive",
+    "v2": "forgave",
+    "v3": "forgiven",
+    "translation": "прощать"
+  },
+  {
+    "v1": "shrink",
+    "v2": "shrank",
+    "v3": "shrunk",
+    "translation": "сжиматься"
+  },
+  {
+    "v1": "awake",
+    "v2": "awoke",
+    "v3": "awoken",
+    "translation": "просыпаться"
+  },
+  {
+    "v1": "melt",
+    "v2": "melted",
+    "v3": "molten",
+    "translation": "таять"
+  },
+  {
+    "v1": "swear",
+    "v2": "swore",
+    "v3": "sworn",
+    "translation": "клясться"
+  },
+  {
+    "v1": "lend",
+    "v2": "lent",
+    "v3": "lent",
+    "translation": "одалживать"
+  },
+  {
+    "v1": "shear",
+    "v2": "shore",
+    "v3": "shorn",
+    "translation": "стричь"
+  },
+  {
+    "v1": "behold",
+    "v2": "beheld",
+    "v3": "beheld",
+    "translation": "созерцать"
+  },
+  {
+    "v1": "sting",
+    "v2": "stung",
+    "v3": "stung",
+    "translation": "жалить"
+  },
+  {
+    "v1": "undergo",
+    "v2": "underwent",
+    "v3": "undergone",
+    "translation": "подвергаться"
+  },
+  {
+    "v1": "shave",
+    "v2": "shaved",
+    "v3": "shaven",
+    "translation": "брить"
+  },
+  {
+    "v1": "grind",
+    "v2": "ground",
+    "v3": "ground",
+    "translation": "молоть"
+  },
+  {
+    "v1": "sneak",
+    "v2": "snuck",
+    "v3": "snuck",
+    "translation": "красться"
+  },
+  {
+    "v1": "swell",
+    "v2": "swelled",
+    "v3": "swollen",
+    "translation": "опухать"
+  },
+  {
+    "v1": "spit",
+    "v2": "spat",
+    "v3": "spat",
+    "translation": "плевать"
+  },
+  {
+    "v1": "dwell",
+    "v2": "dwelt",
+    "v3": "dwelt",
+    "translation": "обитать"
+  },
+  {
+    "v1": "bleed",
+    "v2": "bled",
+    "v3": "bled",
+    "translation": "кровоточить"
+  },
+  {
+    "v1": "weave",
+    "v2": "wove",
+    "v3": "woven",
+    "translation": "ткать"
+  },
+  {
+    "v1": "thrive",
+    "v2": "throve",
+    "v3": "thriven",
+    "translation": "процветать"
+  },
+  {
+    "v1": "creep",
+    "v2": "crept",
+    "v3": "crept",
+    "translation": "ползать"
+  },
+  {
+    "v1": "sew",
+    "v2": "sewed",
+    "v3": "sewn",
+    "translation": "шить"
+  },
+  {
+    "v1": "withstand",
+    "v2": "withstood",
+    "v3": "withstood",
+    "translation": "выдерживать"
+  },
+  {
+    "v1": "flee",
+    "v2": "fled",
+    "v3": "fled",
+    "translation": "бежать/спасаться"
+  },
+  {
+    "v1": "sling",
+    "v2": "slung",
+    "v3": "slung",
+    "translation": "швырять"
+  },
+  {
+    "v1": "tread",
+    "v2": "trod",
+    "v3": "trodden",
+    "translation": "наступать"
+  },
+  {
+    "v1": "preset",
+    "v2": "preset",
+    "v3": "preset",
+    "translation": "предустанавливать"
+  },
+  {
+    "v1": "stride",
+    "v2": "strode",
+    "v3": "stridden",
+    "translation": "шагать"
+  },
+  {
+    "v1": "slit",
+    "v2": "slit",
+    "v3": "slit",
+    "translation": "разрезать"
+  },
+  {
+    "v1": "spoil",
+    "v2": "spoilt",
+    "v3": "spoilt",
+    "translation": "портить"
+  },
+  {
+    "v1": "sow",
+    "v2": "sowed",
+    "v3": "sown",
+    "translation": "сеять"
+  },
+  {
+    "v1": "withhold",
+    "v2": "withheld",
+    "v3": "withheld",
+    "translation": "удерживать"
+  },
+  {
+    "v1": "forbid",
+    "v2": "forbade",
+    "v3": "forbidden",
+    "translation": "запрещать"
+  },
+  {
+    "v1": "weep",
+    "v2": "wept",
+    "v3": "wept",
+    "translation": "плакать"
+  },
+  {
+    "v1": "inlay",
+    "v2": "inlaid",
+    "v3": "inlaid",
+    "translation": "инкрустировать"
+  },
+  {
+    "v1": "cling",
+    "v2": "clung",
+    "v3": "clung",
+    "translation": "цепляться"
+  },
+  {
+    "v1": "stink",
+    "v2": "stank",
+    "v3": "stunk",
+    "translation": "вонять"
+  },
+  {
+    "v1": "slay",
+    "v2": "slew",
+    "v3": "slain",
+    "translation": "убивать"
+  },
+  {
+    "v1": "fling",
+    "v2": "flung",
+    "v3": "flung",
+    "translation": "швырять"
+  },
+  {
+    "v1": "mislead",
+    "v2": "misled",
+    "v3": "tomisled",
+    "translation": "вводить в заблуждение"
+  },
+  {
+    "v1": "foresee",
+    "v2": "foresaw",
+    "v3": "foreseen",
+    "translation": "предвидеть"
+  },
+  {
+    "v1": "mow",
+    "v2": "mowed",
+    "v3": "mown",
+    "translation": "косить"
+  },
+  {
+    "v1": "overtake",
+    "v2": "overtook",
+    "v3": "overtaken",
+    "translation": "обгонять"
+  },
+  {
+    "v1": "sunburn",
+    "v2": "sunburnt",
+    "v3": "sunburnt",
+    "translation": "обгорать на солнце"
+  },
+  {
+    "v1": "sublet",
+    "v2": "sublet",
+    "v3": "sublet",
+    "translation": "сдавать в субаренду"
+  },
+  {
+    "v1": "rive",
+    "v2": "rived",
+    "v3": "riven",
+    "translation": "раскалывать"
+  },
+  {
+    "v1": "forsake",
+    "v2": "forsook",
+    "v3": "forsaken",
+    "translation": "покидать"
+  },
+  {
+    "v1": "misunderstand",
+    "v2": "misunderstood",
+    "v3": "misunderstood",
+    "translation": "неправильно понимать"
+  },
+  {
+    "v1": "clothe",
+    "v2": "clad",
+    "v3": "clad",
+    "translation": "одевать"
+  },
+  {
+    "v1": "vex",
+    "v2": "vexed",
+    "v3": "vexed",
+    "translation": "раздражать"
+  },
+  {
+    "v1": "frostbite",
+    "v2": "frostbit",
+    "v3": "frostbitten",
+    "translation": "обморозить"
+  },
+  {
+    "v1": "alight",
+    "v2": "alit",
+    "v3": "alighted",
+    "translation": "сходить/садиться"
+  },
+  {
+    "v1": "slink",
+    "v2": "slunk",
+    "v3": "slunk",
+    "translation": "красться"
+  },
+  {
+    "v1": "wring",
+    "v2": "wrung",
+    "v3": "wrung",
+    "translation": "выжимать"
+  },
+  {
+    "v1": "wend",
+    "v2": "went",
+    "v3": "went",
+    "translation": "направляться"
+  },
+  {
+    "v1": "overhear",
+    "v2": "overheard",
+    "v3": "overheard",
+    "translation": "подслушивать"
+  },
+  {
+    "v1": "overdraw",
+    "v2": "overdrew",
+    "v3": "overdrawn",
+    "translation": "превышать кредит"
+  },
+  {
+    "v1": "handwrite",
+    "v2": "handwrote",
+    "v3": "handwritten",
+    "translation": "писать от руки"
+  }
+]
